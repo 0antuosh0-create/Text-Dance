@@ -1,3 +1,6 @@
+**English** | [فارسی](README.fa.md)
+
+---
 # PromptMotion Studio
 
 PromptMotion Studio is a 100% offline browser app for generating short motion-graphic videos from a prompt. It renders animated scenes on an HTML canvas, mixes optional audio in the browser, and exports a downloadable video file.
